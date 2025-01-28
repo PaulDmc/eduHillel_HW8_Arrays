@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eduHillel_HW8_Arrays", "edu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eduHillel_HW8_Arrays2", "..\eduHillel_HW8_Arrays2\eduHillel_HW8_Arrays2.csproj", "{46BD9BD4-F421-4EC5-B4EE-48E9B102618F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eduHillel_HW8_Arrays3", "..\eduHillel_HW8_Arrays3\eduHillel_HW8_Arrays3.csproj", "{5BD312D0-A9AD-4722-A9F7-E18E8419B3BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{46BD9BD4-F421-4EC5-B4EE-48E9B102618F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46BD9BD4-F421-4EC5-B4EE-48E9B102618F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46BD9BD4-F421-4EC5-B4EE-48E9B102618F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD312D0-A9AD-4722-A9F7-E18E8419B3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD312D0-A9AD-4722-A9F7-E18E8419B3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD312D0-A9AD-4722-A9F7-E18E8419B3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD312D0-A9AD-4722-A9F7-E18E8419B3BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
