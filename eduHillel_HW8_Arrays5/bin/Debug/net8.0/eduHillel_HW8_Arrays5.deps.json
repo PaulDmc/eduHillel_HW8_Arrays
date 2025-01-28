@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "eduHillel_HW8_Arrays5/1.0.0": {
+        "runtime": {
+          "eduHillel_HW8_Arrays5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eduHillel_HW8_Arrays5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

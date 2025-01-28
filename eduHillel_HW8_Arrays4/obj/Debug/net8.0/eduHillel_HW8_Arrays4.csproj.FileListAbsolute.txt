@@ -1,0 +1,15 @@
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.AssemblyInfoInputs.cache
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.AssemblyInfo.cs
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.csproj.CoreCompileInputs.cache
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.sourcelink.json
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\bin\Debug\net8.0\eduHillel_HW8_Arrays4.exe
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\bin\Debug\net8.0\eduHillel_HW8_Arrays4.deps.json
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\bin\Debug\net8.0\eduHillel_HW8_Arrays4.runtimeconfig.json
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\bin\Debug\net8.0\eduHillel_HW8_Arrays4.dll
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\bin\Debug\net8.0\eduHillel_HW8_Arrays4.pdb
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.dll
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\refint\eduHillel_HW8_Arrays4.dll
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.pdb
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\eduHillel_HW8_Arrays4.genruntimeconfig.cache
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\ConsoleApp\eduHillel_HW8_Arrays4\obj\Debug\net8.0\ref\eduHillel_HW8_Arrays4.dll

@@ -1,0 +1,5 @@
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\obj\Debug\net8.0\eduHillel_HW8_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\obj\Debug\net8.0\eduHillel_HW8_Arrays.AssemblyInfoInputs.cache
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\obj\Debug\net8.0\eduHillel_HW8_Arrays.AssemblyInfo.cs
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\obj\Debug\net8.0\eduHillel_HW8_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Demchenko Pavlo\source\repos\eduHillel_HW8_Arrays\obj\Debug\net8.0\eduHillel_HW8_Arrays.sourcelink.json
